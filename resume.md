@@ -3,6 +3,32 @@ layout: default
 title: Resume
 ---
 
+</head>
+  <style>
+        li {
+            line-height: 1.5; /* 1.8 times the normal font size */
+        }
+
+        b {
+            line-height: 1.5; /* 1.8 times the normal font size */
+        }
+
+        br {
+            line-height: 1.5; /* 1.8 times the normal font size */
+        }
+        body {
+            padding-right: 130px; /* Adjust the value as needed */
+        }
+
+        body {
+            padding-left: 80px; /* Adjust the value as needed */
+        }
+  </style>
+<body>
+
+
+
+
 <div class="two-column">
 
   <div class="left-menu">
@@ -14,35 +40,34 @@ title: Resume
   </div>
 
   <div>
-    <div id="info" class="section">
+    <div style="font-size: 1.1em" style="line-height: 1.4" id="info" class="section">
       <h2>Professional Summary</h2>
       Analytics professional with experience across data science, machine learning engineering, and analytics, working on large-scale datasets and end-to-end solutions. My background includes building machine learning models for classification, forecasting, optimization, and similarity analysis, as well as developing scalable reporting and visualization systems to support data-driven decision making. I enjoy working at the intersection of model development, data quality, and production systems, with experience in NLP, deep learning, statistical modeling, and modern ML workflows.
     </div>
 
-    <div id="skills" class="section">
+    <div style="font-size: 1.1em" style="line-height: 1.5" id="skills" class="section">
       <h2>Skills</h2>
-			<br>
-			<b>Programming:</b> Python, SQL, DAX
-			<br>
-			<b>Machine Learning:</b> Data Cleaning, Regression, Classification, Ensemble Methods, Feature Engineering, A/B testing, Data Analysis, Probability and Statistics
-			<br>
-			<b>Natural Language Processing:</b> Embeddings, Sentiment analysis, text classification, Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM),  Transformer models, BERT
-			<br>
-			<b>Computer Vision:</b> Image similarity, Object Detection, Image segmentation, Convolutional Neural Networks, U-Net, Mask RCNN, Vision Transformers, ResNet, VGG
-			<br>
-			<b>Data Visualization:</b> Power BI, Matplotlib, Seaborn
-			<br>
-			<b>Machine Learning tools and libraries:</b> Pandas, Numpy, Scikit Learn, Tensorflow, Pytorch
-			<br>
-			<b>Generative AI:</b> Large Language Models, Transformer Architectures, Prompt Engineering, Retrieval Augmented Generation, Vector Databases
-			<br>
-			<b>Miscellaneous:</b> Microsoft Excel, Elasticsearch, Kibana, Automation, Git, Linux, Kafka, Airflow
+      <b>Programming:</b> Python, SQL, DAX
+      <br>
+      <b>Machine Learning:</b> Data Cleaning, Regression, Classification, Ensemble Methods, Feature Engineering, A/B testing, Data Analysis, Probability and Statistics
+      <br>
+      <b>Natural Language Processing:</b> Embeddings, Sentiment analysis, text classification, Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM),  Transformer models, BERT
+      <br>
+      <b>Computer Vision:</b> Image similarity, Object Detection, Image segmentation, Convolutional Neural Networks, U-Net, Mask RCNN, Vision Transformers, ResNet, VGG
+      <br>
+      <b>Data Visualization:</b> Power BI, Matplotlib, Seaborn
+      <br>
+      <b>Machine Learning tools and libraries:</b> Pandas, Numpy, Scikit Learn, Tensorflow, Pytorch
+      <br>
+      <b>Generative AI:</b> Large Language Models, Transformer Architectures, Prompt Engineering, Retrieval Augmented Generation, Vector Databases
+      <br>
+      <b>Miscellaneous:</b> Microsoft Excel, Elasticsearch, Kibana, Automation, Git, Linux, Kafka, Airflow
     </div>
 
-		<div id="experience" class="section">
+	<div style="font-size: 1.1em" id="experience" class="section">
       <h2>Professional Experience</h2>
         <h3>Electronic Technician</h3>
-        <h3>Neptronic, July 2024 - November 2025, Montreal</h3>
+        <h3>Neptronic, Montreal, July 2024 - November 2025</h3>
           <ul style="list-style-type: disc;">
             <li>Develop programming models to test and validate electronic components.</li>
             <li>Help construct and test prototypes based on technical specifications.</li>
@@ -51,7 +76,7 @@ title: Resume
         <br>
 
         <h3>Data Scientist</h3>
-        <h3>Intelligence Node, October 2019 - November 2022, Mumbai</h3>
+        <h3>Intelligence Node, Mumbai, October 2019 - November 2022</h3>
           <ul style="list-style-type: disc;">
             <li>Deployed a natural language processing (NLP) based Deep Learning model using LSTM + BERT embeddings with a 96 percent accuracy to classify URLs of e-commerce websites reducing crawler deployment time by 3 hours. </li>
             <li>Used text and image processing algorithms to develop product search pipelines from a database of more than 10 million products. </li>
@@ -68,7 +93,7 @@ title: Resume
         <br>
 
         <h3>Data Scientist</h3>
-        <h3>Numer8 Analytics, August 2018 - October 2019, Mumbai</h3>
+        <h3>Numer8 Analytics, Mumbai, August 2018 - October 2019</h3>
           <ul style="list-style-type: disc;">
             <li>Developed social media (twitter) data collection pipeline using Python and Kafka to collect streaming tweets.</li>
             <li>Used Sentinel-2 and Landsat Satellite imagery to detect on-ground change during and after a natural calamity.</li>
@@ -79,7 +104,7 @@ title: Resume
         <br>
 
         <h3>Solar Engineer</h3>
-        <h3>SolarInertia, August 2017 - May 2019, Mumbai</h3>
+        <h3>SolarInertia, Mumbai, August 2017 - May 2019</h3>
           <ul style="list-style-type: disc;">
             <li>Designed solar rooftop projects with a total capacity of 1.2 MW across multiple sites using AutoCAD and Sketchup.</li>
             <li>Led installation at multiple residential and commercial sites with a combined capacity of 300KW.</li>
@@ -94,7 +119,7 @@ title: Resume
           <ul style="list-style-type: disc;">
             <li>Key Courses: Accounting, Finance, Marketing, Business Law</li>
           </ul>
-        <br>
+        
         <br>
 
         <h3>University of Mumbai</h3>
@@ -103,7 +128,6 @@ title: Resume
             <li>Key Courses: Financial Markets, Cost and Management Accounting, Taxation</li>
           </ul>
         
-        <br>
         <br>
 
         <h3>University of Mumbai</h3>
