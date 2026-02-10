@@ -3,7 +3,6 @@ layout: default
 title: Resume
 ---
 
-</head>
   <style>
         li {
             line-height: 1.5; /* 1.8 times the normal font size */
@@ -146,7 +145,6 @@ title: Resume
         <li><a href="https://www.youtube.com/@propagateknowledge600">Propagate Knowledge</a> – Educational YouTube channel on data science topics with 4,000+ hours of watch time</li>
         <li>Innovation Lab, Concordia University – Cross-disciplinary collaboration to develop a post-wildfire analysis prototype using Sentinel-2 satellite imagery</li>
         <li>Language Proficiency – Bilingual Proficiency (English and French)</li>
-    </div>
 
 	<div style="font-size: 1.12em" style="line-height: 1.5" id="info" class="section">
       <h3 style="font-size: 1.8em">
