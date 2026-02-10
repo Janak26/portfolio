@@ -154,7 +154,3 @@ title: Resume
         To download the Resume
       </h3>
     </div>
-	
-  </div>
-
-</div>
