@@ -40,16 +40,16 @@ title: Resume
   </div>
 
   <div>
-    <div style="font-size: 1.1em" style="line-height: 1.4" id="info" class="section">
-      <h2>Professional Summary</h2>
+    <div style="font-size: 1.12em" style="line-height: 1.5" id="info" class="section">
+      <h2 style="font-size: 1.8em">Professional Summary</h2>
       Analytics professional with experience across data science, machine learning engineering, and analytics, working on large-scale datasets and end-to-end solutions. My background includes building machine learning models for classification, forecasting, optimization, and similarity analysis, as well as developing scalable reporting and visualization systems to support data-driven decision making. I enjoy working at the intersection of model development, data quality, and production systems, with experience in NLP, deep learning, statistical modeling, and modern ML workflows.
     </div>
-
-    <div style="font-size: 1.1em" style="line-height: 1.5" id="skills" class="section">
-      <h2>Skills</h2>
+    
+	  <div style="font-size: 1.1em" style="line-height: 1.5" id="skills" class="section">
+      <h2 style="font-size: 1.8em">Skills</h2>
       <b>Programming:</b> Python, SQL, DAX
       <br>
-      <b>Machine Learning:</b> Data Cleaning, Regression, Classification, Ensemble Methods, Feature Engineering, A/B testing, Data Analysis, Probability and Statistics
+      <b>Machine Learning:</b> Data Cleaning, Regression, Classification, Clustering, Ensemble Methods, Feature Engineering, A/B testing, Data Analysis, Probability and Statistics, Time Series Forecasting
       <br>
       <b>Natural Language Processing:</b> Embeddings, Sentiment analysis, text classification, Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM),  Transformer models, BERT
       <br>
@@ -61,12 +61,14 @@ title: Resume
       <br>
       <b>Generative AI:</b> Large Language Models, Transformer Architectures, Prompt Engineering, Retrieval Augmented Generation, Vector Databases
       <br>
-      <b>Miscellaneous:</b> Microsoft Excel, Elasticsearch, Kibana, Automation, Git, Linux, Kafka, Airflow
+      <b>Tools:</b> Jupyter Notebooks, GIT, Flask, FastAPI, PySpark, GitLab, Kafka, Airflow
+      <br>
+      <b>Miscellaneous:</b> Microsoft Excel, Elasticsearch, Kibana, Automation, Linux
     </div>
 
 	<div style="font-size: 1.1em" id="experience" class="section">
-      <h2>Professional Experience</h2>
-        <h3>Electronic Technician</h3>
+      <h2 style="font-size: 1.8em">Professional Experience</h2>
+        <h3 style="font-size: 1.4em">Electronic Technician</h3>
         <h3>Neptronic, Montreal, July 2024 - November 2025</h3>
           <ul style="list-style-type: disc;">
             <li>Develop programming models to test and validate electronic components.</li>
@@ -75,7 +77,7 @@ title: Resume
           </ul>
         <br>
 
-        <h3>Data Scientist</h3>
+        <h3 style="font-size: 1.4em">Data Scientist</h3>
         <h3>Intelligence Node, Mumbai, October 2019 - November 2022</h3>
           <ul style="list-style-type: disc;">
             <li>Deployed a natural language processing (NLP) based Deep Learning model using LSTM + BERT embeddings with a 96 percent accuracy to classify URLs of e-commerce websites reducing crawler deployment time by 3 hours. </li>
@@ -86,16 +88,16 @@ title: Resume
             <li>Implemented U-NET research paper using TensorFlow to develop image segmentation model to accurately identify product features. Used the model to develop product color detection and validation library. </li>
             <li>Designed and developed Power BI reports to track internal system performance and visual statistics on product catalogues. </li>
             <li>Collaborated with data quality teams to implement automated data validation checks across 5M+ records, generating more than 30 different reports daily, saving 5 hours and improving reliability of analytics and ML pipelines. </li>
-            <li>Deployed Fast API based services for automated and on-demand report generation, scheduled CRON jobs to daily system performance and product catalogue-based reports. </li>
+            <li>Deployed Fast API based services for automated and on-demand report generation, scheduled CRON jobs for daily system performance and product catalogue-based reports. </li>
             <li>Deployed all the models on an internal IBM server giving complete control over model performance, implemented multi-processing using python to handle simultaneous requests. Always using Linux environment for development and deployment.</li>
           </ul>
 
         <br>
 
-        <h3>Data Scientist</h3>
+        <h3 style="font-size: 1.4em">Data Scientist</h3>
         <h3>Numer8 Analytics, Mumbai, August 2018 - October 2019</h3>
           <ul style="list-style-type: disc;">
-            <li>Developed social media (twitter) data collection pipeline using Python and Kafka to collect streaming tweets.</li>
+            <li>Developed social media (twitter) data collection pipeline using Python and Kafka to collect streaming tweets and used LSTM model to perform sentiment analysis.</li>
             <li>Used Sentinel-2 and Landsat Satellite imagery to detect on-ground change during and after a natural calamity.</li>
             <li>Combined population density data and digital elevation model data to develop flood risk models for Mumbai and Bengaluru.</li>
             <li>Used flood-fill algorithm to predict the risk on city infrastructure in an event of a flash flood.</li>
@@ -103,7 +105,7 @@ title: Resume
 
         <br>
 
-        <h3>Solar Engineer</h3>
+        <h3 style="font-size: 1.4em">Solar Engineer</h3>
         <h3>SolarInertia, Mumbai, August 2017 - May 2019</h3>
           <ul style="list-style-type: disc;">
             <li>Designed solar rooftop projects with a total capacity of 1.2 MW across multiple sites using AutoCAD and Sketchup.</li>
@@ -112,9 +114,9 @@ title: Resume
     </div>
 
 
-    <div id="education" class="section">
-      <h2>Education</h2>
-        <h3>Concordia University – John Molson School of Business</h3>
+    <div style="font-size: 1.1em" style="line-height: 1.5" id="education" class="section">
+      <h2 style="font-size: 1.8em">Education</h2>
+        <h3 style="font-size: 1.4em">Concordia University – John Molson School of Business</h3>
         <h3>Graduate Diploma in Business Administration</h3>
           <ul style="list-style-type: disc;">
             <li>Key Courses: Accounting, Finance, Marketing, Business Law</li>
@@ -122,7 +124,7 @@ title: Resume
         
         <br>
 
-        <h3>University of Mumbai</h3>
+        <h3 style="font-size: 1.4em">University of Mumbai</h3>
         <h3>Post Graduate Diploma in Financial Management</h3>
           <ul style="list-style-type: disc;">
             <li>Key Courses: Financial Markets, Cost and Management Accounting, Taxation</li>
@@ -130,19 +132,29 @@ title: Resume
         
         <br>
 
-        <h3>University of Mumbai</h3>
+        <h3 style="font-size: 1.4em">University of Mumbai</h3>
         <h3>Bachelor of Engineering, Electronics and Telecommunications</h3>
           <ul style="list-style-type: disc;">
             <li>Key Courses: Applied Mathematics, Probability, Statistics, Control Systems, Digital and Analog Electronics</li>
           </ul>
     </div>
 
-    <div id="additional" class="section">
-      <h2>Other Activities and Interests</h2>
-        <h3>Propagate Knowledge – Educational YouTube channel on data science topics with 4,000+ hours of watch time</h3>
-        <h3>Innovation Lab, Concordia University – Cross-disciplinary collaboration to develop a post-wildfire analysis prototype using Sentinel-2 satellite imagery</h3>
-        <h3>Language Proficiency – Bilingual Proficiency (English and French)</h3>
+	
+    <div style="font-size: 1.1em" style="line-height: 1.5" id="additional" class="section">
+      <h2 style="font-size: 1.8em">Other Activities and Interests</h2>
+        <ul style="list-style-type: disc;">
+        <li><a href="https://www.youtube.com/@propagateknowledge600">Propagate Knowledge</a> – Educational YouTube channel on data science topics with 4,000+ hours of watch time</li>
+        <li>Innovation Lab, Concordia University – Cross-disciplinary collaboration to develop a post-wildfire analysis prototype using Sentinel-2 satellite imagery</li>
+        <li>Language Proficiency – Bilingual Proficiency (English and French)</li>
     </div>
+
+	<div style="font-size: 1.12em" style="line-height: 1.5" id="info" class="section">
+      <h3 style="font-size: 1.8em">
+        <a href="https://drive.google.com/file/d/10i3zbOezdVvvxyPtbQcC8cK0ByPWvv90/view?usp=drive_link">Click Here</a>
+        To download the Resume
+      </h3>
+    </div>
+	
   </div>
 
 </div>
