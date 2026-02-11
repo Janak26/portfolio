@@ -3,27 +3,7 @@ layout: default
 title: Home
 ---
 
-<style>
-        body {
-            padding-right: 130px; /* Adjust the value as needed */
-        }
 
-        body {
-            padding-left: 80px; /* Adjust the value as needed */
-        }
-  </style>
-
-
-<header class="top-nav">
-  <div style="font-size: 1.5em" class="nav-name">Janak Pradip Rathod</div>
-  <nav style="font-size: 1.5em" class="nav-links">
-    <a href="https://janak26.github.io/portfolio/">Home</a>
-    <a href="https://janak26.github.io/portfolio/resume">Resume</a>
-    <a href="https://janak26.github.io/portfolio/projects">Projects</a>
-  </nav>
-</header>
-
-<main class="page-content">
   <div class="two-column">
 
     <div style="font-size: 1.3em" class="left-menu">
@@ -55,10 +35,3 @@ title: Home
     <h3>Email: janakprathod@gmail.com</h3>
 
   </div>
-
-
-
-
-
-
-</main>
