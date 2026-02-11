@@ -5,16 +5,36 @@
   <title>{{ page.title }} | {{ site.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
+  <style>
+        li {
+            line-height: 1.5; /* 1.8 times the normal font size */
+        }
 
+        b {
+            line-height: 1.5; /* 1.8 times the normal font size */
+        }
+
+        br {
+            line-height: 1.5; /* 1.8 times the normal font size */
+        }
+        body {
+            padding-right: 130px; /* Adjust the value as needed */
+        }
+
+        body {
+            padding-left: 80px; /* Adjust the value as needed */
+        }
+  </style>
+
+  
 <body>
 
 <header class="top-nav">
-  <div class="nav-name">Your Name</div>
-  <nav class="nav-links">
+  <div style="font-size: 1.5em" class="nav-name">Janak Pradip Rathod</div>
+  <nav style="font-size: 1.5em" class="nav-links">
     <a href="{{ '/' | relative_url }}">Home</a>
     <a href="{{ '/resume' | relative_url }}">Resume</a>
     <a href="{{ '/projects' | relative_url }}">Projects</a>
-    <a href="{{ '/additional' | relative_url }}">Additional Information</a>
   </nav>
 </header>
 
