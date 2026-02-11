@@ -14,11 +14,17 @@ title: Home
   </style>
 
 
+<header class="top-nav">
+  <div style="font-size: 1.5em" class="nav-name">Janak Pradip Rathod</div>
+  <nav style="font-size: 1.5em" class="nav-links">
+    <a href="https://janak26.github.io/portfolio/">Home</a>
+    <a href="https://janak26.github.io/portfolio/resume">Resume</a>
+    <a href="https://janak26.github.io/portfolio/projects">Projects</a>
+  </nav>
+</header>
 
-
-
-
-<div class="two-column">
+<main class="page-content">
+  <div class="two-column">
 
     <div style="font-size: 1.3em" class="left-menu">
       <a href="https://github.com/Janak26">GitHub</a>
@@ -49,3 +55,10 @@ title: Home
     <h3>Email: janakprathod@gmail.com</h3>
 
   </div>
+
+
+
+
+
+
+</main>
