@@ -3,39 +3,14 @@ layout: default
 title: Resume
 ---
 
-  <style>
-        li {
-            line-height: 1.5; /* 1.8 times the normal font size */
-        }
-
-        b {
-            line-height: 1.5; /* 1.8 times the normal font size */
-        }
-
-        br {
-            line-height: 1.5; /* 1.8 times the normal font size */
-        }
-        body {
-            padding-right: 130px; /* Adjust the value as needed */
-        }
-
-        body {
-            padding-left: 80px; /* Adjust the value as needed */
-        }
-  </style>
-<body>
-
-
-
-
 <div class="two-column">
 
-  <div class="left-menu">
-    <a href="#info">Information</a>
-    <a href="#skills">Skills</a>
-    <a href="#experience">Experience</a>
-    <a href="#education">Education</a>
-    <a href="#additional">Other Activities and Interests</a>
+  <div style="font-size: 1.3em" class="left-menu">
+    <a href="https://janak26.github.io/portfolio/resume#info">Professional Summary</a>
+    <a href="https://janak26.github.io/portfolio/resume#skills">Skills</a>
+    <a href="https://janak26.github.io/portfolio/resume#experience">Experience</a>
+    <a href="https://janak26.github.io/portfolio/resume#education">Education</a>
+    <a href="https://janak26.github.io/portfolio/resume#additional">Other Activities and Interests</a>
   </div>
 
   <div>
@@ -43,8 +18,8 @@ title: Resume
       <h2 style="font-size: 1.8em">Professional Summary</h2>
       Analytics professional with experience across data science, machine learning engineering, and analytics, working on large-scale datasets and end-to-end solutions. My background includes building machine learning models for classification, forecasting, optimization, and similarity analysis, as well as developing scalable reporting and visualization systems to support data-driven decision making. I enjoy working at the intersection of model development, data quality, and production systems, with experience in NLP, deep learning, statistical modeling, and modern ML workflows.
     </div>
-    
-	  <div style="font-size: 1.1em" style="line-height: 1.5" id="skills" class="section">
+
+    <div style="font-size: 1.1em" style="line-height: 1.5" id="skills" class="section">
       <h2 style="font-size: 1.8em">Skills</h2>
       <b>Programming:</b> Python, SQL, DAX
       <br>
@@ -65,7 +40,7 @@ title: Resume
       <b>Miscellaneous:</b> Microsoft Excel, Elasticsearch, Kibana, Automation, Linux
     </div>
 
-	<div style="font-size: 1.1em" id="experience" class="section">
+    <div style="font-size: 1.1em" id="experience" class="section">
       <h2 style="font-size: 1.8em">Professional Experience</h2>
         <h3 style="font-size: 1.4em">Electronic Technician</h3>
         <h3>Neptronic, Montreal, July 2024 - November 2025</h3>
@@ -112,7 +87,6 @@ title: Resume
           </ul>
     </div>
 
-
     <div style="font-size: 1.1em" style="line-height: 1.5" id="education" class="section">
       <h2 style="font-size: 1.8em">Education</h2>
         <h3 style="font-size: 1.4em">Concordia University – John Molson School of Business</h3>
@@ -138,15 +112,16 @@ title: Resume
           </ul>
     </div>
 
-	
+
     <div style="font-size: 1.1em" style="line-height: 1.5" id="additional" class="section">
       <h2 style="font-size: 1.8em">Other Activities and Interests</h2>
         <ul style="list-style-type: disc;">
         <li><a href="https://www.youtube.com/@propagateknowledge600">Propagate Knowledge</a> – Educational YouTube channel on data science topics with 4,000+ hours of watch time</li>
         <li>Innovation Lab, Concordia University – Cross-disciplinary collaboration to develop a post-wildfire analysis prototype using Sentinel-2 satellite imagery</li>
         <li>Language Proficiency – Bilingual Proficiency (English and French)</li>
+    </div>
 
-	<div style="font-size: 1.12em" style="line-height: 1.5" id="info" class="section">
+    <div style="font-size: 1.12em" style="line-height: 1.5" id="info" class="section">
       <h3 style="font-size: 1.8em">
         <a href="https://drive.google.com/file/d/10i3zbOezdVvvxyPtbQcC8cK0ByPWvv90/view?usp=drive_link">Click Here</a>
         To download the Resume
