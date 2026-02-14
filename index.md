@@ -7,10 +7,10 @@ title: Home
   <div class="two-column">
 
     <div style="font-size: 1.3em" class="left-menu">
-      <a href="https://github.com/Janak26"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="22" height="22">GitHub</a>
-      <a href="https://www.linkedin.com/in/janakprathod/"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="22" height="22">LinkedIn</a>
-      <a href="https://www.youtube.com/@propagateknowledge600"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="22" height="22">YouTube</a>
-      <a href="https://drive.google.com/file/d/10i3zbOezdVvvxyPtbQcC8cK0ByPWvv90/view?usp=drive_link"><img src="https://cdn-icons-png.flaticon.com/512/4208/4208479.png" width="22" height="22">Resume</a>
+      <a href="https://github.com/Janak26"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="18" height="18"> GitHub</a>
+      <a href="https://www.linkedin.com/in/janakprathod/"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="18" height="18"> LinkedIn</a>
+      <a href="https://www.youtube.com/@propagateknowledge600"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="18" height="18"> YouTube</a>
+      <a href="https://drive.google.com/file/d/10i3zbOezdVvvxyPtbQcC8cK0ByPWvv90/view?usp=drive_link"><img src="https://cdn-icons-png.flaticon.com/512/4208/4208479.png" width="18" height="18"> Resume</a>
     </div>
 
   <div style="font-size: 1.12em" style="line-height: 1.5">
