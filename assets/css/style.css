@@ -43,6 +43,7 @@ body {
 .left-menu {
   position: sticky;
   top: 100px;
+  position: fixed;
 }
 
 .left-menu a {
